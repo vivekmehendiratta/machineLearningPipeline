@@ -5,7 +5,7 @@
 
 # Motivation
 
-For this project, I used 'Corporate Messaging' Data produced by Appen to understand the concepts of:
+For this project, I used 'Corporate Messaging' Data to understand the concepts of:
 
     Machine Learning Pipelines
     GridSearchCV
