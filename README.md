@@ -12,7 +12,7 @@ For this project, I used 'Corporate Messaging' Data to understand the concepts o
 
 # File Descriptions
 
-There is single notebook available here to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.
+There are four python files focussed to understand the above questions.
 
 # Licences
 
